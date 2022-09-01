@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(252, 191, 240);
+  background-color: rgb(255, 210, 250);
   align-items: center;
   text-align: center;
   padding: 35px;
@@ -38,7 +38,7 @@ p {
   justify-content: center;
   align-items: center;
   border-radius: 5px 100px;
-  box-shadow: 15px 15px 20px rgb(255, 91, 222);
+  box-shadow: 15px 15px 20px rgb(255, 144, 233);
 }
 
 a {
