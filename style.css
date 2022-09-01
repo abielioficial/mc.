@@ -47,6 +47,7 @@ p {
   justify-content: center;
   align-items: center;
   border-radius: 5px 100px;
+  box-shadow: 15px 15px 20px rgb(255, 91, 222);
 }
 
 a {
